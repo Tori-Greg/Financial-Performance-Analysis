@@ -10,7 +10,7 @@ The Nigerian Exchange group (NGX) website was the source of the data for this an
 
 ## Data Modelling
 
-![](Data_Model.jpg)
+![](Data_Model.JPG)
 
 As a result of the unstructured data generated during the transformation process from NGX, it was necessary to structure the data in a way that would enable smooth visualization in Power BI. This involved creating five tables and manually establishing relationships between them, since the automatic relationship created by Power BI was incorrect. All relationships followed a one-to-many cardinality and featured a one-way filter. Additionally, a separate table was created specifically for calculations using Measures.
 
