@@ -18,6 +18,8 @@ As a result of the unstructured data generated during the transformation process
 ## Overview and Visuals
 ![](Dashboard.JPG)
 
+_For dashboard interaction click [here](https://app.powerbi.com/links/32xyhHQ6s1?ctid=f2c35211-7dad-42d6-b895-25d82fc1f0a2&pbi_source=linkShare)_
+
 **Here are some important observations gleaned from the analysis:**
 - Guinness Nigeria plc achieved a gross profit margin of 35.13% in 2022, marking an improvement from the previous year's figure of 28.49%. This rise suggests that the company has successfully converted a greater portion of its revenue into gross profit after accounting for the cost of sales.
 - The company also saw an improvement in profitability with a higher operating profit margin compared to the previous year.
